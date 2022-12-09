@@ -1,29 +1,23 @@
-# LineFollower
-<br />
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
-<br />
-<br />
-[picture]
-<br />
-<br />
-  
+![316579205_587818479776314_3724272411660619265_n](https://user-images.githubusercontent.com/79223544/206719710-2d40e3a8-c4c4-42a6-9361-eac1b297b457.png)
 ## specifications
 <br />
-microcontroller:
+microcontroller: Atmega 328p
 <br />
-motors: 
+motors: 30:1 Micro Metal Gearmotor LP 6V
 <br />
-h-bridge:
+h-bridge: TB752A16612FNG
 <br />
-sensors:
+sensors: QTR-8A Reflectance Sensor Array
 <br />
-batteries:
+batteries: 2x18650
 <br />
-wireless communication:
+wireless communication: HC-05
 <br />
-distance sensor - motors:
+distance sensor - motors: 10cm
 <br />
-weight:
+weight: 200g
 <br />
-speed: 
+speed: 0.601m/s
 <br />
+
+
